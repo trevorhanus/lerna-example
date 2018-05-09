@@ -1,0 +1,9 @@
+{
+  "name": "main-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "utils-one": "^1.0.0"
+  }
+}
